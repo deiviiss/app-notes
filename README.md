@@ -6,6 +6,8 @@ Tutoria Fazt Code
 
 https://youtube.com/playlist?list=PLo5lAe9kQrwrGPjhhzejCt3JENYf5uDNf
 
+- -> Ejemplo https://deiviiss.github.io/app-notes-frontend/
+
 BACKEND
 
 Rest API
